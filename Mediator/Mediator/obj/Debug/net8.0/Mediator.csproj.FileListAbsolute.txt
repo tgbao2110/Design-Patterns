@@ -1,0 +1,14 @@
+D:\UIT\HK7\DesPattern\Mediator\Mediator\bin\Debug\net8.0\Mediator.exe
+D:\UIT\HK7\DesPattern\Mediator\Mediator\bin\Debug\net8.0\Mediator.deps.json
+D:\UIT\HK7\DesPattern\Mediator\Mediator\bin\Debug\net8.0\Mediator.runtimeconfig.json
+D:\UIT\HK7\DesPattern\Mediator\Mediator\bin\Debug\net8.0\Mediator.dll
+D:\UIT\HK7\DesPattern\Mediator\Mediator\bin\Debug\net8.0\Mediator.pdb
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\Mediator.AssemblyInfoInputs.cache
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\Mediator.AssemblyInfo.cs
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\Mediator.csproj.CoreCompileInputs.cache
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\Mediator.dll
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\refint\Mediator.dll
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\Mediator.pdb
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\Mediator.genruntimeconfig.cache
+D:\UIT\HK7\DesPattern\Mediator\Mediator\obj\Debug\net8.0\ref\Mediator.dll
